@@ -11,3 +11,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Ayymin&icon=0&color=0)](https://visitcount.itsvg.in)
 
+[![Ayymin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ayymin)](https://github.com/anuraghazra/github-readme-stats)
