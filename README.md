@@ -1,4 +1,7 @@
-Hi, my name is Amin
+<p align="center">
+  Hi, Im Amin. 
+</p>
+
 
 
 # 💻 Technologies I can proudly say that I have worked with 
