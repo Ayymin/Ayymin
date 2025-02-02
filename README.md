@@ -1,5 +1,5 @@
 <p align="center">
-  Hi, I'm Amin
+  Hi, I'm Amin. I like to play videogames, code, lift and have a good time :)
 </p>
 
 
