@@ -27,7 +27,7 @@ Hi, I'm Amin. I like to play videogames, code, lift and chill :)
 
 <div align="center">
 
-## My latest total contributions in my last place of work
+## My latest total contributions in my last internship
 </div>
 
 ### Frontend
